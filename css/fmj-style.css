@@ -1,6 +1,8 @@
 /*
 
-Food Market Jamaica
+Simple House
+
+https://templatemo.com/tm-539-simple-house
 
 */
 
@@ -18,7 +20,7 @@ html {
   -ms-overflow-style: scrollbar;
 }
 
-
+*,
 *::before,
 *::after {
   box-sizing: inherit;
@@ -310,7 +312,7 @@ p, address {
   padding-bottom: 10px;
 }
 
-.tm-nav-link.active,
+
 .tm-nav-link:hover {
   border-bottom: 1px solid white;
 }
