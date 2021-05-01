@@ -154,7 +154,7 @@ html {
 
 .tm-btn-success:hover,
 .tm-btn-success:focus {
-  background-color: #1d6e46;
+  background-color:greenyellow;
 }
 
 .tm-btn-danger {
@@ -315,6 +315,10 @@ p, address {
 
 .tm-nav-link:hover {
   border-bottom: 1px solid white;
+}
+
+.tm-nav-link.active {
+  color: green;
 }
 
 .tm-welcome-section {
