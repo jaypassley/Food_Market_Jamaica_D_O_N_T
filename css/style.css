@@ -44,7 +44,7 @@ body {
 
 .img:hover {
     box-shadow: none;
-    background-color: #fff;
+    background-color: grey;
     border-bottom-right-radius: 50px;
     border-top-left-radius: 50px;
 }
@@ -55,4 +55,8 @@ button {
     color: #fff;
     border: none;
     box-shadow: 12px 10px 12px rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+    background-color: green;
 }
