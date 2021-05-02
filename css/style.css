@@ -1,17 +1,4 @@
-/* body{
-    background-color: #333;
-    font-family: cursive;
-}
-#our{
-    text-align: center;
-    font-size: 40px;
-}
-#info{
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
-    grid-column-gap: 10px;
-    grid-row-gap: 10px;
-} */
+
 body {
     background-color: #333;
     
@@ -40,6 +27,10 @@ body {
 .img {
     box-sizing: border-box;
     box-shadow: 12px 10px 12px rgba(0, 0, 0, 0.5);
+}
+
+.img-desc{
+    padding-left:10px;
 }
 
 .img:hover {
